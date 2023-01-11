@@ -1,0 +1,7 @@
+//lecture 1 - the pig game
+
+- getElementById - allows you to select the element by its unique ID (we don't use the hashtag for this)
+-classList.toggle (will add a class if its not there, or will remove it if it is)
+
+- not gonna lie...i'm so fucking confusion right now 
+-if there's a small change in the functions while refactoring, it makes sense to add a parameter as allows you to input small changes in the function
